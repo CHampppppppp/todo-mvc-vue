@@ -10,5 +10,5 @@
 查看已完成/未完成事项并统计数量
 
 
-![image](https://github.com/user-attachments/assets/b9441b98-3ae5-4407-b34e-7dc0d326ef9a)
+![image](https://github.com/user-attachments/assets/99706fef-60f9-456b-9796-9ef1223d14f3)
 
