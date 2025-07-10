@@ -12,3 +12,11 @@
 
 ![image](https://github.com/user-attachments/assets/99706fef-60f9-456b-9796-9ef1223d14f3)
 
+
+# 安装步骤
+克隆项目后在终端输入
+1. cd .\todo-mvc-vue-main\
+
+2. npm i
+
+3. npm run serve
